@@ -1,3 +1,6 @@
+中英文切换小demo,登入进去的商城也是网上的开源demo
+
+
 # shop-project
 
 > A Vue.js project
